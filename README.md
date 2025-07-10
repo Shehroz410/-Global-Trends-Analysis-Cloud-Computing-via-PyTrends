@@ -28,5 +28,5 @@ This project analyzes global interest in the search term **"cloud computing"** u
 
 1. Clone the repository:
    ```bash
-   https://github.com/Shehroz410/-Global-Trends-Analysis-Cloud-Computing-via-PyTrends
+   git clone https://github.com/Shehroz410/-Global-Trends-Analysis-Cloud-Computing-via-PyTrends
    cd -Global-Trends-Analysis-Cloud-Computing-via-PyTrends
